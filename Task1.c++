@@ -1,6 +1,4 @@
-// This program reads two numbers and prints their sum, difference, product,
-// and all divisors of the first number.
-
+ 
 #include <iostream>
 using namespace std;
 
