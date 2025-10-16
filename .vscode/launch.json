@@ -29,8 +29,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/Users/yahya/Documents/GitHub/Algorithms and complexity",
-      "program": "c:/Users/yahya/Documents/GitHub/Algorithms and complexity/build/Debug/outDebug",
+      "cwd": "c:/Users/yahya/Documents/GitHub/algorithms-and-complexity/MatrixInputProgram",
+      "program": "c:/Users/yahya/Documents/GitHub/algorithms-and-complexity/MatrixInputProgram/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
